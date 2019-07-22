@@ -1,2 +1,2 @@
-# PWPB 1
+# Latihan Linear Layout
 M Iqbal M
